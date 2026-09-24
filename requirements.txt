@@ -1,0 +1,16 @@
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.15.3
+tqdm==4.67.1
+matplotlib==3.9.4
+seaborn==0.13.2
+async-lru==2.0.4
+asyncssh==2.17.0
+cachetools==5.5.1
+torch==2.10.0
+transformers==5.14.1
+datasets==5.0.1
+accelerate==1.14.0
+huggingface_hub==1.28.0
+safetensors==0.8.0
+sentencepiece==0.2.2

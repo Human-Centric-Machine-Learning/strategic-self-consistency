@@ -1,0 +1,7 @@
+hf_data/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+**/.DS_Store
+.vscode/
+*.env*
